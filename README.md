@@ -12,10 +12,10 @@
 ### 测试环境(Nvidia Jetson Orin Nx 16g) and (Nvida GeForce RTX 4070)
 
 - Ultralytics-8.3.225
-- Python 3.10.12
-- CUDA:12.6.85
-- CuDNN:9.19.1.2
-- TensorRT:10.7.0.23
+- Python 3.8
+- CUDA:11.8
+- CuDNN:8.9.7
+- TensorRT:8.6.1.6
 - OpenCV:4.10.0
 
 
